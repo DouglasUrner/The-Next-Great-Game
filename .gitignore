@@ -4,6 +4,8 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+[Ll]og
+UnityLockFile
 
 # Visual Studio cache directory
 .vs/
